@@ -24,9 +24,9 @@
 
 4. **「Create repository」をクリック**
 
-5. **プッシュする********
+5. **プッシュする**
    ```bash
-   git push -u origin main
+   git push -u origin mai
    ```
 
 ### 方法2: 既存のリポジトリがある場合
