@@ -26,7 +26,7 @@
 
 5. **プッシュする**
    ```bash
-   git push -u origin mai
+   git push -u origin main
    ```
 
 ### 方法2: 既存のリポジトリがある場合
